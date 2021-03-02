@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "namaMatkul": "Dasar-Dasar Pemrograman 2",
+    "jumlahSKS": 4,
+    "dosen": "Althof Rafaella Ramdhan, S.ITF",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "semester": "Genap 2020/2021",
+    "tugas": [
+      {
+        "namaTugas": "TP1",
+        "deadline": "2020-03-20"
+      },
+      {
+        "namaTugas": "TP2",
+        "deadline": "2020-03-21"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "namaMatkul": "Struktur Data dan Algoritma",
+    "jumlahSKS": 4,
+    "dosen": "Mahdia Aliyya, S.ITF",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "semester": "Genap 2020/2021",
+    "tugas": [
+      {
+        "namaTugas": "TP1",
+        "deadline": "2020-03-23"
+      },
+      {
+        "namaTugas": "Lab 2",
+        "deadline": "2020-03-25"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "namaMatkul": "Matematika Diskret 2",
+    "jumlahSKS": 3,
+    "dosen": "Fahdii Ajmalal Fikrie, S.ITF",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "semester": "Genap 2020/2021",
+    "tugas": []
+  }
+]

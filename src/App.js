@@ -14,7 +14,7 @@ function App() {
           <TambahKuliah />
           <div>
             {matkuls.map((matkul) => {
-              return <MatkulCard matkul={matkul} />;
+              return <MatkulCard key={matkul.id} matkul={matkul} />;
             })}
           </div>
         </div>

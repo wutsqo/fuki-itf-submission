@@ -1,10 +1,13 @@
 import React from "react";
+import tw from "twin.macro";
+
+const FooterContainer = tw.div`text-center bg-skyblue text-whitesmoke p-4 text-sm mt-8`;
 
 const Footer = () => {
   return (
-    <div className="text-center bg-skyblue text-whitesmoke p-4">
+    <FooterContainer>
       &lt;/&gt; with ♥ by Muhammad Urwatil Wutsqo
-    </div>
+    </FooterContainer>
   );
 };
 

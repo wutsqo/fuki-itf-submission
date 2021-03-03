@@ -5,7 +5,8 @@
     "jumlahSKS": 4,
     "dosen": "Althof Rafaella Ramdhan, S.ITF",
     "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "semester": "Genap 2020/2021",
+    "semester": "Genap",
+    "tahunAjar": "2020/2021",
     "tugas": [
       {
         "namaTugas": "TP1",
@@ -23,7 +24,8 @@
     "jumlahSKS": 4,
     "dosen": "Mahdia Aliyya, S.ITF",
     "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "semester": "Genap 2020/2021",
+    "semester": "Genap",
+    "tahunAjar": "2020/2021",
     "tugas": [
       {
         "namaTugas": "TP1",
@@ -41,7 +43,8 @@
     "jumlahSKS": 3,
     "dosen": "Fahdii Ajmalal Fikrie, S.ITF",
     "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "semester": "Genap 2020/2021",
+    "semester": "Genap",
+    "tahunAjar": "2020/2021",
     "tugas": []
   }
 ]

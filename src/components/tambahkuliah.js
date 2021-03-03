@@ -2,16 +2,16 @@ import React from "react";
 import tw from "twin.macro";
 
 const Form = tw.input`mt-1 px-2 block w-full border-darkslategray border rounded-md h-8`;
-const Label = tw.label`block mt-3`;
-const TextArea = tw.textarea`mt-1 block w-full border-darkslategray border rounded-md h-20`;
+const Label = tw.label`block mt-2`;
+const TextArea = tw.textarea`mt-1 px-2 block w-full border-darkslategray border rounded-md h-16`;
 const FormPlaceholder = tw.span`text-darkslategray`;
 const SelectInput = tw.select`mt-1 px-2 block w-full border-darkslategray border rounded-md h-8`;
 
 const TambahKuliah = () => {
   return (
-    <div className="px-3">
+    <div className="px-3 max-w-lg">
       <p className="text-2xl text-olivedrab font-bold">Tambah Mata Kuliah</p>
-      <div className="mt-4">
+      <div className="mt-3">
         <Label>
           <FormPlaceholder>Nama Mata Kuliah</FormPlaceholder>
           <Form type="text" />

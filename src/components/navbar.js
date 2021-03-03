@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <Nav>
       <div className="text-2xl font-bold">Matkulku</div>
-      <div className="bg-whitesmoke text-skyblue font-bold py-2 px-6 text-lg rounded-full align-middle">
+      <div className="bg-whitesmoke text-skyblue font-bold py-2 px-6 text-base rounded-full align-middle">
         + Tambah Matkul
       </div>
     </Nav>
